@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **ataberkkilavuzcu@gmail.com**
 
-- ⚡ Fun fact **I am a huge LOTR fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
