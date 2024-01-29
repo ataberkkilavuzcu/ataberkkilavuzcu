@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataberkkilavuzcu&label=Profile%20views&color=0e75b6&style=flat" alt="ataberkkilavuzcu" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine, C++, Python**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
 - 💬 Ask me about **JAVA, C**
 
