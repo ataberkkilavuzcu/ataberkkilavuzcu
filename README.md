@@ -1,4 +1,4 @@
-[![MasterHead](([https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)))]()
+![2a53651a35816f499270d8275fd5318f](https://github.com/user-attachments/assets/9e771562-4ffd-49a5-9fae-ae06e1917228)
 
 <h1 align="center">Hi 👋, I'm Ataberk Kılavuzcu</h1>
 <h3 align="center">A hard working, researcher computer engineer student from Turkey</h3>
