@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataberkkilavuzcu&label=Profile%20views&color=0e75b6&style=flat" alt="ataberkkilavuzcu" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine, C++, Python**
-
-- 💬 Ask me about **JAVA, C**
 
 - 📫 How to reach me **ataberkkilavuzcu@gmail.com**
 
