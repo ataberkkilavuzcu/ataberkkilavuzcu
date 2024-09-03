@@ -1,5 +1,3 @@
-![2a53651a35816f499270d8275fd5318f](https://github.com/user-attachments/assets/9e771562-4ffd-49a5-9fae-ae06e1917228)
-
 <h1 align="center">Hi 👋, I'm Ataberk Kılavuzcu</h1>
 <h3 align="center">A hard working, researcher computer engineer student from Turkey</h3>
 
