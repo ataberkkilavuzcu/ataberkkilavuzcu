@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ataberk Kılavuzcu</h1>
-<h3 align="center">A hard working, researcher computer engineer student from Turkey</h3>
+<h3 align="center">A hard working, researcher newly grad computer engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataberkkilavuzcu&label=Profile%20views&color=0e75b6&style=flat" alt="ataberkkilavuzcu" /> </p>
 
