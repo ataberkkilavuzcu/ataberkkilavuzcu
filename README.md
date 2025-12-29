@@ -26,19 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ataberkkilavuzcu&show_icons=true&theme=transparent&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataberkkilavuzcu&show_icons=true&locale=en&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ataberkkilavuzcu&theme=transparent" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ataberk-kilavuzcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ataberk-kilavuzcu" height="30" width="40" /></a>
